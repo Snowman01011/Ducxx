@@ -78,9 +78,9 @@ p {
 }
 
 pre {
-  background-color: #121212;
+  background-color: #212121;
   color: #f2f2f2;
   padding: 10px;
   border: 1px solid #ccc;
   white-space: pre-wrap;
-}
+  }
